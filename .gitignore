@@ -1,0 +1,6 @@
+# Files
+*.jar
+level.dat
+
+# Directories
+target/
